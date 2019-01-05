@@ -1,0 +1,93 @@
+.my-name {
+  font-size: 5vw;
+  /*font-weight: bold;*/
+  color: white !important;
+  background-color: #222222;
+  /*float: left;*/
+  /*display: inline-block;*/
+  position: relative;
+  z-index: -1;
+  text-align: center;
+  font-family: "Bitter";
+  border-bottom: 5px solid #f79420;
+  padding: 4% 2% 2% 2%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.oxygen {
+  font-family: "Oxygen";
+  color: black !important;
+}
+
+.center-element {
+  display: block;
+}
+
+.logo {
+  position: absolute;
+  padding: 2% 2% 2% 2%;
+  width: 14%;
+  /*height: 20%;*/
+  /*width: 180px;*/
+  /*max-width: 170px;*/
+  /*max-height: 170px;*/
+  /*display: inline-block;*/
+  /*overflow: auto;*/
+  /*float: left;*/
+}
+
+.cartoon {
+  border-left: 5px solid #f79420;
+  border-right: 5px solid #f79420;
+  border-top-style: none;
+  border-bottom: 5px solid #f79420;
+  /*margin: 0px;*/
+}
+
+body {
+  background-color: white;
+}
+
+.fa {
+  padding: 20%;
+  font-size: 3vw;
+  width: 150%;
+  max-width: 100px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-envelope {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-github {
+  background: black;
+  color: white;
+}
+
+.fa-codepen {
+  background: black;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
