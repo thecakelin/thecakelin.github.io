@@ -26,7 +26,7 @@
 
 .logo {
   position: absolute;
-  padding: 2% 2% 2% 2%;
+  /* padding: 2% 2% 2% 2%; */
   width: 14%;
   /*height: 20%;*/
   /*width: 180px;*/
@@ -42,10 +42,12 @@
   border-right: 5px solid #f79420;
   border-top-style: none;
   border-bottom: 5px solid #f79420;
+
   /*margin: 0px;*/
 }
 
 body {
+  margin: 0;
   background-color: white;
 }
 
